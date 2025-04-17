@@ -1,0 +1,9 @@
+{
+	"name": "tokiyo-olimpic-df",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6c101959-017b-4215-9096-1b592c1d3b6f",
+		"tenantId": "c15b4be2-e95b-4936-92c1-5b2f2fb63317"
+	}
+}
